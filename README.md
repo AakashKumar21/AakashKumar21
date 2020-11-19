@@ -8,3 +8,10 @@
 - 🎓 Studying at Electronics and Communication.
 - More to be added :)
 
+### 🤖 Projects
+
+- Sewage Monitoring System
+- Embedded Toolbox
+- Remote Hardware Monitor
+- Queue Management System
+
