@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[My Portfolio](aakashkumar21.github.io/myportfolio)
+[My Portfolio](https://aakashkumar21.github.io/myportfolio/)
 
 ### 📖 About me
 
