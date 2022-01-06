@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 , Outdated intro, will update it soon
 
 [My Portfolio](https://aakashkumar21.github.io/myportfolio/)
 
