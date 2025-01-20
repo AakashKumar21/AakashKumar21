@@ -1,5 +1,5 @@
 # Hi there 👋 , Outdated intro, will update it soon
-
+[Outdated :kekw:]
 [My Portfolio](https://aakashkumar21.github.io/myportfolio/)
 
 ### 📖 About me
